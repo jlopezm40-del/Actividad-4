@@ -10,4 +10,10 @@ La *Torre Eiffel* es uno de los monumentos más famosos de París. Desde arriba 
 ### ***Museo del Louvre***
 El Louvre es uno de los museos más importantes del mundo. En él se encuentra la famosa pintura de la Mona Lisa.
 <img width="616" height="443" alt="Foto del Museo del Louvre en París" src="https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=616&h=443&fit=crop" />
+## *3. Que llevar en la maleta*
+- **Ropa cómoda**
+- **Calzado para caminar**
+- ** Móvil y cargador**
+- **Documentación personal**
+- **Una cámara de fotos**
 
