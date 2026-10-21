@@ -13,7 +13,7 @@ El Louvre es uno de los museos más importantes del mundo. En él se encuentra l
 ## *3. Que llevar en la maleta*
 - **Ropa cómoda**
 - **Calzado para caminar**
-- ** Móvil y cargador**
+- **Móvil y cargador**
 - **Documentación personal**
 - **Una cámara de fotos**
 
