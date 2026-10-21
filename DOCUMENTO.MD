@@ -21,3 +21,12 @@ Si tuviera tres días para visitar París, organizaría el viaje de esta forma:
 1. **Primer día:** visitar la Torre Eiffel y pasear por sus alrededores.
 2. **Segundo día:** conocer el Museo del Louvre y el centro de la ciudad.
 3. **Tercer día:** visitar la Catedral de Notre-Dame y comprar algún recuerdo.
+<!--
+## *5. Consejos para viajar*
+Es importante planificar las visitas antes de viajar para aprovechar mejor el tiempo.
+- Utilizar el transporte público.
+- Llevar ropa y calzado cómodos.
+- Reservar las entradas con antelación.
+- Llevar el móvil cargado para hacer fotos.
+Mi consejo es disfrutar de París sin tener demasiada prisa.
+-->
