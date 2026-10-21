@@ -11,4 +11,3 @@ La *Torre Eiffel* es uno de los monumentos más famosos de París. Desde arriba 
 El Louvre es uno de los museos más importantes del mundo. En él se encuentra la famosa pintura de la Mona Lisa.
 ![Museo del Louvre en París](louvre.png)
 
-
