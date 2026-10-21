@@ -16,4 +16,8 @@ El Louvre es uno de los museos más importantes del mundo. En él se encuentra l
 - **Móvil y cargador**
 - **Documentación personal**
 - **Una cámara de fotos**
-
+## *4. Plan de viaje*
+Si tuviera tres días para visitar París, organizaría el viaje de esta forma:
+1. **Primer día:** visitar la Torre Eiffel y pasear por sus alrededores.
+2. **Segundo día:** conocer el Museo del Louvre y el centro de la ciudad.
+3. **Tercer día:** visitar la Catedral de Notre-Dame y comprar algún recuerdo.
